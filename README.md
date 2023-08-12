@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm E'zozbek</h1>
-<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
+Hi there! 👋 I'm E'zozbek
 
-- 🌱 I’m currently learning **Gin**
+Welcome to my GitHub profile! I'm a passionate Backend developer from Uzbekistan, with a keen interest in creating efficient and robust applications. I love working with cutting-edge technologies to build powerful and scalable solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/khezozbek?tab=repositories](https://github.com/khezozbek?tab=repositories)
+🌱 Currently Learning
 
-- 💬 Ask me about **Python, django, rest framework, fast api, go**
+I'm currently focusing on mastering Gin, a powerful web framework for Go. Learning new technologies is an exciting journey, and I'm dedicated to enhancing my skills to create even better software.
 
-- 📫 How to reach me **cssezozbel@gmail.com**
+👨‍💻 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezozbek-kholbutayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezozbek-kholbutayev/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ezozbekkh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ezozbekkh/" height="30" width="40" /></a>
-</p>
+You can explore my projects on my GitHub repositories. Feel free to check them out, contribute, or simply get inspired!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💬 Ask Me About
+
+I'm knowledgeable in various areas, particularly:
+
+Python
+Django
+Django Rest Framework
+FastAPI
+Go (Golang)
+Flask
+Linux
+AWS (Amazon Web Services)
+Heroku
+MongoDB
+MySQL
+SQL
+If you have any questions, need advice, or want to discuss anything related to these technologies, feel free to reach out!
+
+📫 How to Reach Me
+
+You can contact me via email at cssezozbek@gmail.com. I'm always open to connecting with fellow developers, discussing new ideas, and collaborating on exciting projects.
+
+Languages and Tools
+
+Here are some of the languages and tools I'm proficient in:
+
+Python
+Go
+Django
+Flask
+Linux
+AWS (Amazon Web Services)
+Heroku
+MongoDB
+MySQL
+SQL
+I'm constantly expanding this list and exploring new tools to enhance my development capabilities.
+
+Feel free to connect with me and let's embark on a journey of innovation and creativity together! 🚀
