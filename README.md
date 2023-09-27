@@ -2,10 +2,6 @@ Hi there! 👋 I'm E'zozbek
 
 Welcome to my GitHub profile! I'm a passionate Backend developer from Uzbekistan, with a keen interest in creating efficient and robust applications. I love working with cutting-edge technologies to build powerful and scalable solutions.
 
-🌱 Currently Learning
-
-I'm currently focusing on mastering Gin, a powerful web framework for Go. Learning new technologies is an exciting journey, and I'm dedicated to enhancing my skills to create even better software.
-
 👨‍💻 Projects
 
 You can explore my projects on my GitHub repositories. Feel free to check them out, contribute, or simply get inspired!
@@ -37,7 +33,6 @@ Languages and Tools
 Here are some of the languages and tools I'm proficient in:
 
 Python
-Go
 Django
 Flask
 Linux
